@@ -118,38 +118,6 @@ AI-powered DevSecOps platform for intelligent incident management.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhamedAasikAfridiS&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAasikAfridiS&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamedAasikAfridiS&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamedAasikAfridiS&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Java

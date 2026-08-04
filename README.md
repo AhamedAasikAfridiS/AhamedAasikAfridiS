@@ -122,9 +122,9 @@ AI-powered DevSecOps platform for intelligent incident management.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhamedAasikAfridiS&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAasikAfridiS&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -134,7 +134,7 @@ AI-powered DevSecOps platform for intelligent incident management.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamedAasikAfridiS&theme=tokyonight"/>
 
 </p>
 
@@ -144,7 +144,7 @@ AI-powered DevSecOps platform for intelligent incident management.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamedAasikAfridiS&theme=tokyo-night"/>
 
 </p>
 
@@ -161,14 +161,7 @@ AI-powered DevSecOps platform for intelligent incident management.
 
 ---
 
-# 🤝 Connect With Me
 
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-
-</p>
 
 ---
 
